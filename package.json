@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Get the IP address, language and operating system for user browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eXConf/request-header-parser.git"
+  },
+  "author": "eXConf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eXConf/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/eXConf/request-header-parser#readme"
+}
